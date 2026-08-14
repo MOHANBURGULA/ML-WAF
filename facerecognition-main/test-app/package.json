@@ -1,0 +1,12 @@
+{
+  "name": "vulnerable-test-app",
+  "version": "1.0.0",
+  "description": "Vulnerable demo web application running behind Sentinel WAF proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
